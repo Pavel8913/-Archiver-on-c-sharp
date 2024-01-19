@@ -1,0 +1,12 @@
+C:\Users\User\Desktop\проекты программирование\Архиватор\Архиватор\bin\Debug\Архиватор.exe.config
+C:\Users\User\Desktop\проекты программирование\Архиватор\Архиватор\bin\Debug\Архиватор.exe
+C:\Users\User\Desktop\проекты программирование\Архиватор\Архиватор\bin\Debug\Архиватор.pdb
+C:\Users\User\Desktop\проекты программирование\Архиватор\Архиватор\bin\Debug\Ionic.Zip.dll
+C:\Users\User\Desktop\проекты программирование\Архиватор\Архиватор\obj\Debug\Архиватор.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\проекты программирование\Архиватор\Архиватор\obj\Debug\Архиватор.Form1.resources
+C:\Users\User\Desktop\проекты программирование\Архиватор\Архиватор\obj\Debug\Архиватор.Properties.Resources.resources
+C:\Users\User\Desktop\проекты программирование\Архиватор\Архиватор\obj\Debug\Архиватор.csproj.GenerateResource.cache
+C:\Users\User\Desktop\проекты программирование\Архиватор\Архиватор\obj\Debug\Архиватор.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\проекты программирование\Архиватор\Архиватор\obj\Debug\Архиватор.csproj.CopyComplete
+C:\Users\User\Desktop\проекты программирование\Архиватор\Архиватор\obj\Debug\Архиватор.exe
+C:\Users\User\Desktop\проекты программирование\Архиватор\Архиватор\obj\Debug\Архиватор.pdb
